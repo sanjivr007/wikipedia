@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="utility.UtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-10T19:04:10" hostname="sanjiv-Inspiron-5559" time="0.009">
+  <properties/>
+  <testcase name="testAddParkingLot" classname="utility.UtilsTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
